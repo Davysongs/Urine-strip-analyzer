@@ -42,8 +42,8 @@ Urine test strips are a convenient and quick way to test for various substances 
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd urine_test_strip
+    git clone https://github.com/Davysongs/Urine-strip-analyzer.git
+    cd Urine-strip-analyzer-main
     ```
 
 2. **Create and activate a virtual environment**:
