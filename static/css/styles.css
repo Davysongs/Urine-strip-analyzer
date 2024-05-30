@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#response {
+  background-color: #f8f98a;
+  white-space: pre-wrap; /* Preserve whitespace in JSON response */
+}
